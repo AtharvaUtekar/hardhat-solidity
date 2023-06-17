@@ -1,0 +1,2 @@
+# hardhat-solidity
+Solidity project
